@@ -5,14 +5,18 @@ El objetivo fue aplicar los conceptos básicos de desarrollo web para construir 
 
 ## 🚀 Tecnologías utilizadas
 - **HTML**  
-- **CSS**
+- **CSS**  
 - **JavaScript**
 
 ## 📂 Contenido
-- Página principal con presentación personal. 
+- Página principal con presentación personal.  
+- Header con secciones para **Trabajos**, **Servicios** y **Contacto** pensadas para expandir el proyecto de forma autónoma.  
 
 ## 🎯 Objetivo del proyecto
-Practicar los fundamentos de la programación web, especialmente la estructura semántica con HTML y el diseño con CSS, para sentar las bases en el desarrollo frontend.  
+Practicar los fundamentos de la programación web, especialmente:  
+- La estructura semántica con **HTML**.  
+- El diseño con **CSS**.  
+- La interactividad básica con **JavaScript**.  
 
 ## 📝 Notas
 Este es un proyecto introductorio y forma parte de mi proceso de aprendizaje en desarrollo web.
